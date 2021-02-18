@@ -1,5 +1,5 @@
 # Polynomial_interpolator
-<b>     A program that returns the polynomial of a function, along with its respective graph, when given its data sets using the Newton method of polynomial interpolation.</b>
+<b>     A program that returns the polynomial of a function, along with its respective graph, when given its data sets, using the Newton method of polynomial interpolation.</b>
 <h3>Motivation</h3>
         Challenge.       
 <h1>Example</h1>
