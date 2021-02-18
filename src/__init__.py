@@ -36,7 +36,7 @@ print('\nPolynomial:\n '+str(y))
 x = symbols('x')
 f_x = lambdify(x, y, modules=['numpy'])
 
-x_values = np.linspace(int(min(set_of_x))-100, int(max(set_of_x))+100, 500)
+x_values = np.linspace(int(min(set_of_x)), int(max(set_of_x)), 500)
 y_values = f_x(x_values)
 
 fig, ax = plt.subplots()
