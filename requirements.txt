@@ -1,0 +1,3 @@
+sympy==1.7.1
+matplotlib==3.3.3
+numpy==1.19.0
