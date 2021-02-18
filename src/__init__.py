@@ -30,7 +30,7 @@ for i in range(number_of_elements):
 
 
 y = polynomial_interpolator(set_of_x, set_of_y)
-print('\nPolynom:\n '+str(y))
+print('\nPolynomial:\n '+str(y))
 
 
 x = symbols('x')
